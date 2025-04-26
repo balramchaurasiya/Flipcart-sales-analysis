@@ -1,1 +1,2 @@
 # Flipcart-sales-analysis
+This Flipkart Sales Dashboard (2024-2025) tracks total sales, purchases, and profit. It shows monthly sales trends, product-wise sales and distribution across Indian states. Maharashtra, Karnataka, and Uttar Pradesh are the top-performing regions. The dashboard also allows filtering by categories such as Decor, Electronics, and Fashion, making it easy to analyze specific product performance.
